@@ -1,4 +1,4 @@
-package com.nividata.mathmatrix
+package com.shejaeddy.mathgame
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
